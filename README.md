@@ -10,9 +10,12 @@ Este projeto é uma aplicação Node.js que faz uso de mocks e testes unitários
     git clone https://github.com/gf-albuquerque/ProjetoTestes.git
     ```
 
-2. Navegue até o diretório do projeto
+2. Navegue até o diretório do projeto:
+   ```bash
+    cd ProjetoTestes
+    ```
 
-3. Instale as dependências com npm:
+4. Instale as dependências com npm:
 
     ```bash
     npm install
